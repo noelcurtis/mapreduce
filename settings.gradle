@@ -1,2 +1,4 @@
 rootProject.name = 'mapreduce'
+include 'core'
+include 'jobs'
 
